@@ -1,3 +1,9 @@
+# HTML-and-CSS-Essentials-Portfolio-Project
+
+This is my first website utilising GitPod, Github and Git.
+
+I love animals, mainly cats, italian food and learning new things.
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome USER_NAME,
